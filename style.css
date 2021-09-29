@@ -1,0 +1,148 @@
+body{
+    font-family: Source Sans Pro;
+    background-color: #F4F7FC;
+    display: flex;
+    flex-direction: column;
+  }
+  
+.botton-nav {
+    display: flex;
+    align-content: center;
+    height: 4em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 215px;
+  }
+
+.botton-nav-title{
+    margin-left: 188px;
+  }
+
+.botton-nav-title p {
+    display: flex;
+    align-content: center;
+    height: 4em;
+    padding-bottom: 1em;
+    padding-top: 30px;
+    padding-left: 20px;
+    background: #F4F7FC;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: -0.02em;
+}
+
+.breadcrumb l{
+    display: flex;
+    justify-content: center;    
+  }  
+
+.conten-1{
+    display: flex;
+    flex-direction: column;
+    color: blue;
+    height: 60em;
+    padding-right: 10%;
+  }
+  
+.conten-2{
+    display: grid;
+    text-align: left;
+    }
+
+.conten-3{
+    display: grid;
+    width: 200px;
+    background: linear-gradient(180deg, #2160DF 0%, #00C2FF 100%);
+    height: 861px;
+    margin-top: -190px;
+    }
+
+.img{
+    margin-top: -776px;
+    margin-left: 65px;
+    border-radius: 20%;
+    }
+
+.dropdown-1 {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 125%;
+    color: #FFFFFF !important;
+
+    }
+
+.btn{
+    height: 54px;
+    width: 192px;
+
+    }
+
+p{
+    margin-top: 50px;
+    }
+
+.dropdown{
+    margin-left: 30px;
+    margin-top: 10px;
+    }
+
+.botton-nav-title-2{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 125%;
+    display: flex;
+    align-items: left;
+    }
+
+p-2{
+    margin-left: 30px;
+    }
+
+#dropdownMenuButton2{
+    background: #F4F7FC;
+    border: 1px solid #7A8494;
+    border-radius: 4px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 125%; 
+    color: #212223; 
+    }
+
+.botton-nav-title-3{
+    color: #212223;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    background: #F4F7FC;
+    border-radius: 6px;
+    border: 1px solid #7A8494;
+    margin-top: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+    }
+
+.cont-form{
+    margin-top: 50px;
+    margin-left: 51px;
+    }
+
+.botton-nav-title-4{
+    color: #212223;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    background: #F4F7FC;
+    border-radius: 6px;
+    border: 1px solid #7A8494;
+    margin-top: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+    }
